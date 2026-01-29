@@ -1,5 +1,6 @@
 # Job-Search-Analysis
-https://joeyrodriguez-analyst.github.io/16-project-3-job-search-analysis/
+<a href="https://joeyrodriguez-analyst.github.io/16-project-3-job-search-analysis/" target="_blank">Job Search Page</a>
+
 
 
 ### html/css and javascript template/instructional video
